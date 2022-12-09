@@ -25,3 +25,19 @@
 .logo-f>img {
   width: 10rem;
 }
+.footerBlur-1 {
+  width: 26rem;
+  height: 12rem;
+  bottom: 0;
+  right: 15%;
+  filter: blur(200px);
+  background: red;
+}
+.footerBlur-2 {
+  width: 26rem;
+  height: 12rem;
+  bottom: 0;
+  left: 15%;
+  filter: blur(200px);
+  background: rgb(255,115,0);
+}
